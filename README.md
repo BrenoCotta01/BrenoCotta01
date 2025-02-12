@@ -9,6 +9,13 @@ Full Stack Developer passionate about creating amazing web experiences! I love t
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoCotta01&show_icons=true&theme=dark)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrenoCotta01&theme=dark)
+
+
 ### 🛠️ My Tech Stack
 - 🌐 HTML5
 - 🎨 CSS3
@@ -35,10 +42,3 @@ Feel free to check out my repositories and leave a star if you like what you see
 - 🎮 Love coding and gaming
 - 📚 Always learning something new
 - ☕ Powered by coffee
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoCotta01&show_icons=true&theme=dark)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrenoCotta01&theme=dark)
-
